@@ -1,2 +1,8 @@
-# jmeter-maven-examples
-All examples for jmeter with maven
+# jmeter maven examples
+
+# Blogs
+- Basic
+- JVM modified
+- plugins
+- Custom jars
+- Custom Properties
